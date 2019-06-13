@@ -9,7 +9,8 @@ In the Find field.
 
 In the replacement field.
 ```
-\1\2\3{{ asset('\5') }}\3
+$1$2$3{{ asset('$4') }}$3
 ```
+I tested it on PhpStorm and it will also work in other IntelliJ IDEs, let me know if it does not work in your editor. Also, contribution is welcome.
 
 **For development work, training, content writing, consultation contact me: md.sabuj.sarker@gmail.com**
