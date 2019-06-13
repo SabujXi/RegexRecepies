@@ -12,4 +12,4 @@ In the replacement field.
 \1\2\3{{ asset('\5') }}\3
 ```
 
-**For development work, training, content writing contact me: md.sabuj.sarker@gmail.com**
+**For development work, training, content writing, consultation contact me: md.sabuj.sarker@gmail.com**
